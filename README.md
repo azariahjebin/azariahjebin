@@ -136,7 +136,9 @@ Input WSI (1–5 gigapixels @ 40x)
 
 Proposes a transition from human-default to AI-native insurance operations via a decentralized multi-agent architecture orchestrated by the **Truth Score Engine (TSE)**.
 
-$$T_s = \left[\sum_{i=1}^{n}(w_i \cdot C_i)\right] \cdot \prod(1 - H_{penalty})$$
+```math
+T_s = \left[\sum_{i=1}^{n}(w_i \cdot C_i)\right] \cdot \prod(1 - H_{penalty})
+```
 
 ```
 TSE Confidence Routing
@@ -288,9 +290,9 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 
 <div align="center">
 
-<!-- [![Email](https://img.shields.io/badge/azariahjebin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azariahjebin@gmail.com) -->
+<!--[![Email](https://img.shields.io/badge/azariahjebin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azariahjebin@gmail.com)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azariahjebin)
-<!-- [![WhatsApp](https://img.shields.io/badge/%2B91_83001_83081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918300183081) -->
+<!--[![WhatsApp](https://img.shields.io/badge/%2B91_83001_83081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918300183081)-->
 [![Location](https://img.shields.io/badge/Tirunelveli%2C_Tamil_Nadu_🇮🇳-888780?style=for-the-badge)](https://maps.google.com/?q=Tirunelveli)
 
 <br/>
