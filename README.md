@@ -230,12 +230,12 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 |:---|:---|:---|:---:|
 | **NeuroGraph Dashboard** | Interpretable AI clinical report — GNNExplainer heatmaps on WSI tissue with per-biomarker confidence | PyG · Streamlit · GNNExplainer | ✅ Done |
 | **NEXUS** | Multi-agent insurance orchestration with Truth Score Engine | Google ADK · LangChain · FastAPI | ✅ Published |
-| **TLICC** | Multimodal tomato disease diagnosis — microscopic + macroscopic + environmental metadata fusion | PyTorch · CV · Multimodal | <!-- 🔨 In Progress --> 🛠️ Active Dev (Stealth/NDA)|
 | **Amazing Bible App** | AI-native mobile app — intelligent search, bookmarks, prayer tracking — shipped to Play Store | Flutter · LLM | ✅ Shipped |
 | **SuperTuxKart AI** | Deep learning planner (MLP/CNN/Transformer) for autonomous racing — 40% trajectory accuracy gain | PyTorch · Simulation | ✅ Done |
 | **Road Scene Segmentation** | Residual U-Net for simultaneous road segmentation + monocular depth estimation | PyTorch · U-Net | ✅ Done |
 
 </div>
+<!--| **TLICC** | Multimodal tomato disease diagnosis — microscopic + macroscopic + environmental metadata fusion | PyTorch · CV · Multimodal |  🔨 In Progress 🛠️ Active Dev (Stealth/NDA)| -->
 
 ><!-- **TLICC** — Freelance project (supervisor: Abinaya). Details to be added upon completion and client approval.-->
 <!-- TODO: Add full TLICC description when project is complete and Abinaya approves public mention -->
