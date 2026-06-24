@@ -1,6 +1,10 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:1a1a2e,100:16213e&text=Azariah%20Jebin&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Graduate%20Researcher&descSize=18&descAlignY=62&descColor=9d9dff&animation=fadeIn)
+
+<!-- Founder header — uncomment when Dr. Ding confirms:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:1a1a2e,100:16213e&text=Azariah%20Jebin&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Graduate%20Researcher%20%E2%80%A2%20Future%20Founder&descSize=18&descAlignY=62&descColor=9d9dff&animation=fadeIn)
+-->
 
 <br/>
 
@@ -28,7 +32,7 @@
 
 ## 🧬 &nbsp;About Me
 
-I'm Azariah — an AI Engineer, Graduate Researcher, and aspiring founder from Tirunelveli, Tamil Nadu. In 2023, I joined Capgemini as an Analyst, building enterprise data pipelines and LLM-powered internal tools. But I wasn't willing to let that be the whole story — so in 2024, while still working full-time, I enrolled in the M.S. in Artificial Intelligence program at UT Austin. Two tracks, no shortcuts.
+I'm Azariah — an AI Engineer and Graduate Researcher from Tirunelveli, Tamil Nadu. In 2023, I joined Capgemini as an Analyst, building enterprise data pipelines and LLM-powered internal tools. But I wasn't willing to let that be the whole story — so in 2024, while still working full-time, I enrolled in the M.S. in Artificial Intelligence program at UT Austin. Two tracks, no shortcuts.
 
 My thesis, NeuroGraph, became the work I was built for. I developed a Graph Neural Network framework that predicts pediatric brain tumor biomarkers directly from H&E stained tissue slides — no IHC, no molecular sequencing, no expensive lab infrastructure. Children in resource-limited hospitals across India and Southeast Asia die or go undertreated because the diagnostics are simply out of reach. NeuroGraph is my attempt to change that equation. It achieved near-clinical accuracy for GFAP (AUC `0.939`) on 182 real IRB-approved cases from Dell Medical School — and it's only the beginning.
 
@@ -36,7 +40,7 @@ Beyond pathology, I've been exploring how AI can own entire enterprise workflows
 
 My faith is the foundation underneath everything I do. It's what pushed me to take the harder path, to work on problems that matter for people who don't have access to what they deserve, and to believe that a vision is worth holding onto before the resources arrive to back it up.
 
-I'm currently open to **AI/ML Engineer**, **Computer Vision**, and **Founding Engineer** roles — and quietly building toward something of my own.
+I'm currently open to **AI/ML Engineer**, **Computer Vision**, and **Founding Engineer** roles.
 
 > 🌐 **Languages:** Tamil `Native` · English `Full Professional` &nbsp;·&nbsp; 📍 Tirunelveli, Tamil Nadu, India 🇮🇳
 
@@ -284,9 +288,9 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/azariahjebin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azariahjebin@gmail.com)
+<!-- [![Email](https://img.shields.io/badge/azariahjebin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azariahjebin@gmail.com) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azariahjebin)
-[![WhatsApp](https://img.shields.io/badge/%2B91_83001_83081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918300183081)
+<!-- [![WhatsApp](https://img.shields.io/badge/%2B91_83001_83081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918300183081) -->
 [![Location](https://img.shields.io/badge/Tirunelveli%2C_Tamil_Nadu_🇮🇳-888780?style=for-the-badge)](https://maps.google.com/?q=Tirunelveli)
 
 <br/>
