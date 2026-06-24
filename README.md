@@ -46,31 +46,31 @@ I'm currently open to **AI/ML Engineer**, **Computer Vision**, and **Founding En
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
-### 🔬 &nbsp;ML / Deep Learning
+### &nbsp;ML / Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Geometric](https://img.shields.io/badge/PyG-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 👁️ &nbsp;Computer Vision & Digital Pathology
+### &nbsp;Computer Vision & Digital Pathology
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge)
 ![U--Net](https://img.shields.io/badge/U--Net-0F6E56?style=for-the-badge)
 
-### 🤖 &nbsp;Agentic AI / LLMs
+### &nbsp;Agentic AI / LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-7F77DD?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-### ☁️ &nbsp;Infrastructure & Data
+### &nbsp;Infrastructure & Data
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
@@ -78,7 +78,7 @@ I'm currently open to **AI/ML Engineer**, **Computer Vision**, and **Founding En
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗺️ &nbsp;Other Tools
+### &nbsp;Other Tools
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -91,7 +91,7 @@ I'm currently open to **AI/ML Engineer**, **Computer Vision**, and **Founding En
 
 ## 🔬 &nbsp;Research & Publications
 
-### 🧠 &nbsp;NeuroGraph — Predicting Pediatric Brain Tumor Biomarkers from H&E WSIs
+### &nbsp;NeuroGraph — Predicting Pediatric Brain Tumor Biomarkers from H&E WSIs
 
 > **Master's Thesis · University of Texas at Austin · December 2025**
 > Supervised by Dr. Ying Ding & Dr. Leqi Liu · IRB Protocol STUDY00007710 · 182 cases · Dell Medical School
@@ -130,7 +130,7 @@ Input WSI (1–5 gigapixels @ 40x)
 
 ---
 
-### 🤖 &nbsp;NEXUS — Multi-Agent Framework for Autonomous Insurance Workflows
+### &nbsp;NEXUS — Multi-Agent Framework for Autonomous Insurance Workflows
 
 > **Preprint · [Preprints.org](https://doi.org/10.20944/preprints202602.0493.v1) · February 2026**
 
@@ -140,7 +140,7 @@ Proposes a transition from human-default to AI-native insurance operations via a
 T_s = \left[\sum_{i=1}^{n}(w_i \cdot C_i)\right] \cdot \prod(1 - H_{penalty})
 ```
 
-```
+```text
 TSE Confidence Routing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Score ≥ 90%  ──►  ✅ AUTO      Straight-through processing
@@ -153,7 +153,7 @@ TSE Confidence Routing
 
 ---
 
-### 📊 &nbsp;Mitigating Dataset Artifacts in NLI: Sensitivity Analysis of Ensemble-Based Debiasing
+### &nbsp;Mitigating Dataset Artifacts in NLI: Sensitivity Analysis of Ensemble-Based Debiasing
 
 > **Course Research · UT Austin · December 2025** · with Shobika A.
 
@@ -163,7 +163,7 @@ TSE Confidence Routing
 
 ---
 
-### 🎥 &nbsp;Real-Time Video Analytics via Cascaded YOLOv5 + EfficientNet
+### &nbsp;Real-Time Video Analytics via Cascaded YOLOv5 + EfficientNet
 
 > **Technical Report · UT Austin · 2025**
 
@@ -171,7 +171,7 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 
 ---
 
-## 💼 &nbsp;Experience
+## &nbsp;Experience
 
 <div align="center">
 
@@ -191,7 +191,7 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 
 </div>
 
-#### 🏢 &nbsp;Capgemini — Analyst &nbsp;`Feb 2023 – Dec 2025` &nbsp;·&nbsp; Bengaluru
+#### &nbsp;Capgemini — Analyst &nbsp;`Feb 2023 – Dec 2025` &nbsp;·&nbsp; Bengaluru
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
@@ -199,45 +199,45 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-- 🔧 Built **SemantIQ** — an internal LLM-powered NL-to-Cypher/SQL metadata retrieval assistant using LangChain + Gemini, with a Streamlit + Neo4j graph visualization frontend
-- 🔄 Migrated legacy Teradata SQL pipelines to GCP BigQuery; orchestrated staging data loads via Airflow DAGs on Cloud Composer
-- 📊 Maintained production ETL pipelines (Ab Initio, SQL) with data quality checks and incident resolution at enterprise scale
+- Built **SemantIQ** — an internal LLM-powered NL-to-Cypher/SQL metadata retrieval assistant using LangChain + Gemini, with a Streamlit + Neo4j graph visualization frontend
+- Migrated legacy Teradata SQL pipelines to GCP BigQuery; orchestrated staging data loads via Airflow DAGs on Cloud Composer
+- Maintained production ETL pipelines (Ab Initio, SQL) with data quality checks and incident resolution at enterprise scale
 
-#### 🗺️ &nbsp;Thazhal Geospatial Analytics — Intern &nbsp;`Oct–Dec 2021 & Nov–Dec 2022` &nbsp;·&nbsp; Tirunelveli
+#### &nbsp;Thazhal Geospatial Analytics — Intern &nbsp;`Oct–Dec 2021 & Nov–Dec 2022` &nbsp;·&nbsp; Tirunelveli
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-- 🌍 Flask REST APIs for raster map processing, spatial dataset categorization by lat/lon + elevation
-- 🤖 Selenium web scrapers for geographic and environmental data aggregation
-- 🗺️ QGIS + Pandas land record digitization for Tamil Nadu government regional projects
-- 🏆 **Certificate of Appreciation from the Tirunelveli District Collector** for data-driven public planning contributions
+- Flask REST APIs for raster map processing, spatial dataset categorization by lat/lon + elevation
+- Selenium web scrapers for geographic and environmental data aggregation
+- QGIS + Pandas land record digitization for Tamil Nadu government regional projects
+- **Certificate of Appreciation from the Tirunelveli District Collector** for data-driven public planning contributions
 
-#### 🔬 &nbsp;UT Austin — Graduate Researcher &nbsp;`Jun 2025 – Present`
+#### &nbsp;UT Austin — Graduate Researcher &nbsp;`Jun 2025 – Present`
 
 - Designing multimodal fusion architecture: WSIs + genomics + DNA methylation profiles + tumor type classification
 - Formulating joint embedding layers for heterogeneous data stream alignment
 
 ---
 
-## 🚀 &nbsp;Projects
+## &nbsp;Projects & Implementations
 
 <div align="center">
 
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
-| 🧠 **NeuroGraph Dashboard** | Interpretable AI clinical report — GNNExplainer heatmaps on WSI tissue with per-biomarker confidence | PyG · Streamlit · GNNExplainer | ✅ Done |
-| 🤖 **NEXUS** | Multi-agent insurance orchestration with Truth Score Engine | Google ADK · LangChain · FastAPI | ✅ Published |
-| 🍅 **TLICC** | Multimodal tomato disease diagnosis — microscopic + macroscopic + environmental metadata fusion | PyTorch · CV · Multimodal | 🔨 In Progress |
-| 📖 **Amazing Bible App** | AI-native mobile app — intelligent search, bookmarks, prayer tracking — shipped to Play Store | Flutter · LLM | ✅ Shipped |
-| 🏎️ **SuperTuxKart AI** | Deep learning planner (MLP/CNN/Transformer) for autonomous racing — 40% trajectory accuracy gain | PyTorch · Simulation | ✅ Done |
-| 🛣️ **Road Scene Segmentation** | Residual U-Net for simultaneous road segmentation + monocular depth estimation | PyTorch · U-Net | ✅ Done |
+| **NeuroGraph Dashboard** | Interpretable AI clinical report — GNNExplainer heatmaps on WSI tissue with per-biomarker confidence | PyG · Streamlit · GNNExplainer | ✅ Done |
+| **NEXUS** | Multi-agent insurance orchestration with Truth Score Engine | Google ADK · LangChain · FastAPI | ✅ Published |
+| **TLICC** | Multimodal tomato disease diagnosis — microscopic + macroscopic + environmental metadata fusion | PyTorch · CV · Multimodal | <!-- 🔨 In Progress --> 🛠️ Active Dev (Stealth/NDA)|
+| **Amazing Bible App** | AI-native mobile app — intelligent search, bookmarks, prayer tracking — shipped to Play Store | Flutter · LLM | ✅ Shipped |
+| **SuperTuxKart AI** | Deep learning planner (MLP/CNN/Transformer) for autonomous racing — 40% trajectory accuracy gain | PyTorch · Simulation | ✅ Done |
+| **Road Scene Segmentation** | Residual U-Net for simultaneous road segmentation + monocular depth estimation | PyTorch · U-Net | ✅ Done |
 
 </div>
 
-> 🍅 **TLICC** — Freelance project (supervisor: Abinaya). Details to be added upon completion and client approval.
+><!-- **TLICC** — Freelance project (supervisor: Abinaya). Details to be added upon completion and client approval.-->
 <!-- TODO: Add full TLICC description when project is complete and Abinaya approves public mention -->
 
 ---
@@ -258,7 +258,7 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 
 ---
 
-## 🎓 &nbsp;Education
+## &nbsp;Education
 
 <div align="center">
 
@@ -271,7 +271,7 @@ Two-stage pipeline: YOLOv5 spatial detection + EfficientNet deep feature classif
 
 ---
 
-## 🏅 &nbsp;Certifications
+## &nbsp;Certifications
 
 <div align="center">
 
