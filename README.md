@@ -28,20 +28,17 @@
 
 ## 🧬 &nbsp;About Me
 
-```python
-jebin = {
-    "name"       : "Azariah Jebin",
-    "role"       : ["AI Engineer", "Graduate Researcher", "Future Founder"],
-    "education"  : "M.S. Artificial Intelligence — UT Austin (GPA 3.7)",
-    "thesis"     : "NeuroGraph — GNNs for Pediatric Brain Tumor Biomarker Prediction",
-    "research"   : ["Computational Pathology", "Graph Neural Networks", "Multimodal Fusion"],
-    "agentic"    : ["Multi-Agent Systems", "LLM Orchestration", "Enterprise AI"],
-    "languages"  : ["Tamil (Native)", "English (Full Professional)"],
-    "location"   : "Tirunelveli, Tamil Nadu, India 🇮🇳",
-    "mission"    : "Democratize precision diagnostics in resource-constrained healthcare",
-    "status"     : "Open to AI/ML Engineer · Computer Vision · Founding Engineer roles",
-}
-```
+I'm Azariah — an AI Engineer, Graduate Researcher, and aspiring founder from Tirunelveli, Tamil Nadu. In 2023, I joined Capgemini as an Analyst, building enterprise data pipelines and LLM-powered internal tools. But I wasn't willing to let that be the whole story — so in 2024, while still working full-time, I enrolled in the M.S. in Artificial Intelligence program at UT Austin. Two tracks, no shortcuts.
+
+My thesis, NeuroGraph, became the work I was built for. I developed a Graph Neural Network framework that predicts pediatric brain tumor biomarkers directly from H&E stained tissue slides — no IHC, no molecular sequencing, no expensive lab infrastructure. Children in resource-limited hospitals across India and Southeast Asia die or go undertreated because the diagnostics are simply out of reach. NeuroGraph is my attempt to change that equation. It achieved near-clinical accuracy for GFAP (AUC `0.939`) on 182 real IRB-approved cases from Dell Medical School — and it's only the beginning.
+
+Beyond pathology, I've been exploring how AI can own entire enterprise workflows — not just assist humans, but replace the bottlenecks entirely. That's what NEXUS is: a multi-agent insurance framework I designed and published as a preprint, built around a Truth Score Engine that governs autonomous decisions with mathematical confidence rather than human guesswork.
+
+My faith is the foundation underneath everything I do. It's what pushed me to take the harder path, to work on problems that matter for people who don't have access to what they deserve, and to believe that a vision is worth holding onto before the resources arrive to back it up.
+
+I'm currently open to **AI/ML Engineer**, **Computer Vision**, and **Founding Engineer** roles — and quietly building toward something of my own.
+
+> 🌐 **Languages:** Tamil `Native` · English `Full Professional` &nbsp;·&nbsp; 📍 Tirunelveli, Tamil Nadu, India 🇮🇳
 
 ---
 
